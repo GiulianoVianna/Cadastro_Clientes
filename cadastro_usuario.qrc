@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cadastro_usuario">
+    <file>cadastar_usuario.png</file>
+  </qresource>
+</RCC>
